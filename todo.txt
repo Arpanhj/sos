@@ -1,0 +1,9 @@
+kprint_c char
+kprint_s str
+kprint_d int64
+kprint_x uint64
+kprint_p ptr
+
+void? kprintf(format, toOutput)
+
+fix uint64_t for kprint_d and kprint_x
